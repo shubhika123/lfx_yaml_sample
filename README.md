@@ -1,0 +1,1 @@
+# lfx_yaml_sample
