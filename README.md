@@ -1,1 +1,2 @@
 # lfx_yaml_sample
+This project reads an instruction definition file from the RISC‑V Unified Database (YAML format), processes it using a Python script to generate a corresponding C header file, and then uses a C program to output the data back into YAML. It demonstrates a simple workflow for converting between data formats, working with structured input, and verifying round‑trip consistency. The repository includes the original YAML sample, the Python and C source files, generated headers, and output YAML files for reference.
