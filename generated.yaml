@@ -1,0 +1,9 @@
+inst:
+  - name: ADD
+    opcode: 51
+    funct7: 0
+    funct3: 0
+  - name: SUB
+    opcode: 51
+    funct7: 32
+    funct3: 0
